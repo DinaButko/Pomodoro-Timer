@@ -1,5 +1,5 @@
-# PomodoroTimer
-App for tracking time with Python and Tkinter
+# Pomodoro Timer
+ I've created an App for tracking time with Python and Tkinter.
 
  🍅 Basic Python Application to track your time 🚀
 
